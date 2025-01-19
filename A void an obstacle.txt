@@ -4,7 +4,7 @@ overview
 
 Desciption:
 
-his project aims to build a simple robot capable of navigating a defined environment while avoiding obstacles. The robot is equipped with specialized sensors that detect any obstructions in its path. Upon detecting an obstacle, the robot emits an audible alert.
+this project aims to build a simple robot capable of navigating a defined environment while avoiding obstacles. The robot is equipped with specialized sensors that detect any obstructions in its path. Upon detecting an obstacle, the robot emits an audible alert.
 
 is a system designed to help individuals or machines proactively avoid obstacles in their path. It utilizes sensors to detect potential obstacles and triggers alerts to guide users or initiate corrective actions.
 
